@@ -1,0 +1,7 @@
+"id","title","first_name","last_name","email","phone","department_id","created_at"
+1,"Dr.","Akosua","Bonsu","a.bonsu@uenr.edu.gh","+233244123456",1,"2025-08-26 21:42:49.392582"
+2,"Dr.","Samuel","Owusu","s.owusu@uenr.edu.gh","+233244123457",2,"2025-08-26 21:42:49.392582"
+3,"Dr.","Abena","Asare","a.asare@uenr.edu.gh","+233244123458",3,"2025-08-26 21:42:49.392582"
+4,"Dr.","Kwaku","Mensah","k.mensah@uenr.edu.gh","+233244123459",4,"2025-08-26 21:42:49.392582"
+5,"Dr.","Francis","Ampong","f.ampong@uenr.edu.gh","+233244123460",1,"2025-08-26 21:42:49.392582"
+6,"Prof.","Yaa","Pokua","y.pokua@uenr.edu.gh","+233244123461",2,"2025-08-26 21:42:49.392582"
